@@ -1,0 +1,29 @@
+{
+  "name": "instasent-backgrid-moment-cell",
+  "main": [
+    "backgrid-moment-cell.js",
+    "backgrid-moment-cell.css"
+  ],
+  "description": "Backgrid.js datetime cell type formatted via moment.js.",
+  "homepage": "https://github.com/instasent/backgrid-moment-cell",
+  "authors": [
+    "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
+    "Marcos Gómez <marcos@instasent.com>"
+  ],
+  "keywords": [
+    "backbone",
+    "backgrid",
+    "moment"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "api"
+  ],
+  "dependencies": {
+    "backgrid": "~0.3.7",
+    "moment": "^2.12.0",
+    "underscore": "^1.8.0"
+  }
+}
